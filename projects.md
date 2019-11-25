@@ -2,4 +2,6 @@
 layout: default
 title: Eryl Kenner
 ---
-<h1>{{ "Hello World!" | downcase }}</h1>
+# Projects
+
+These are some of my projects.
