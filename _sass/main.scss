@@ -16,6 +16,7 @@ nav{
 nav .nav_current {
   color: green;
 }
+
 nav li.nav_current{
     background-color: #111;
 }
@@ -59,8 +60,19 @@ h1 {
     font-size: 40pt;
 }
 
+h2 {
+    font-size: 25pt;
+}
+
 p {
     font-size: 20pt;
+}
+
+hr{
+    height: 2px;
+    border: none;
+    background-color: #111;
+    border-radius: 2px;
 }
 
 //OTHER STUFF
@@ -73,4 +85,9 @@ p {
 
 #resume{
     margin: 0;
+}
+
+.project_image{
+    margin: 10px 0px;
+    display: block;
 }
