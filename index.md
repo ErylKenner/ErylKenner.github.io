@@ -8,6 +8,6 @@ title: Eryl Kenner
 
 <h1>Eryl Kenner</h1>
 <p>
-Passionate about all things computer science. Previous work includes game design, embedded programming, and artificial intelligence research. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Passionate about all things computer science. Previous work includes game design, embedded programming, and artificial intelligence research. Check out my projects page and my GitHub profile for more details on my projects and past work.
 </p>
 </p>

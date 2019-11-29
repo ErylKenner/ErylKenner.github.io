@@ -2,6 +2,13 @@
 layout: default
 title: Eryl Kenner
 ---
-# Contact
+# Contact Information
 
-Here is my contact info.
+## Email:
+Eryl.Kenner@gmail.com
+
+## GitHub:
+<a href="https://github.com/Eryl2000">https://github.com/Eryl2000</a>
+
+## Phone:
+(541)-631-1910

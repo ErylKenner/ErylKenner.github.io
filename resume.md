@@ -2,6 +2,5 @@
 layout: default
 title: Eryl Kenner
 ---
-# Resume
 
-Here is my resume.
+<object id="resume" data="/assets/images/Resume.pdf" width="800" height="1070" type='application/pdf'/>
