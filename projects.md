@@ -18,7 +18,9 @@ The game was written in Unity using C# with three other teammates over the span 
 <hr>
 
 <h2>Leviathan</h2>
-Virtual reality simulation for the Vive SteamVR System that teaches naval officers to determine ship type and angle using ship lighting. Tests their knowledge using a quiz mode implementing a variety of scenarios. Written in Unity using C#.
+Virtual reality simulation for the Vive SteamVR System that teaches naval officers to determine ship types and angles using ship lighting. In sandbox mode, players can place ships of their choosing, change ship orientation, change the time of day, and change the distance to the ship. The goal is for players to learn how different ships look at different angles and at different light levels. At night, ships are almost impossible to see directly, so players must use the lights present on the ship to determine its class and orientation quadrant.
+
+Once a player is ready they can enter quiz mode, which tests their knowledge in a variety of scenarios and in several levels of difficulty. The project was written in Unity using C# using the SteamVR tool to help manage Vive communication. Unfortunately the code is not allowed to be published publicly, but I have videos of the project in action.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u38aZBRUzsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yzTdZjPLN1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
@@ -50,4 +52,6 @@ Stylized top-down survival shooter. Survive increasingly stronger waves of ninja
 If the player survives enough waves, they will be transported to a boss arena where a powerful boss will try to defeat them. If they manage to survive the terrible monster, they will teleport to the final map. The game is then infinite as the player tries to survive for as long as possible.
 
 The game was written in C++ using a custom game engine built off of the Ogre graphics engine. I implemented a rigid-body collision system which handles collisions and queues callback functions. Rectangle and circle colliders are implemented currently. I also added static terrain path-planning so enemies can navigate arbitrary maps. This makes adding additional maps simple.
+<br>
+<a href="https://github.com/Eryl2000/Ninja-Apocalypse">GitHub Repository</a>
 
