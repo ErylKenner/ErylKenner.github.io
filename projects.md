@@ -8,15 +8,16 @@ Here are a few of my developed projects. Other side projects can be found on my 
 
 <h2>Space Age</h2>
 Space themed local co-op game where two players must manage three subsystems while trying to survive as long as possible. The three subsystems are Gunner, pilot, and Repair, but each player can only control one at a time. The Pilot navigates a hazardous map of procedurally-generated asteroids and enemies, the Gunner shoots down enemy ships, and Repair sprints around the ship fixing damaged subsystems before they go offline. Enemies get stronger and more dangerous over time so decision-making and teamwork are key. The game was written with three other teammates over the span of 24 hours for the 2019 Reno's Biggest Little Hackathon event. It was written in Unity using C#. I wrote the enemy's AI and kiting behavior, the procedural terrain generation, our wave spawning mechanics, some of the map design, and overall game design.
-<img class="project_image" src="/assets/images/space-age.png" width="484" height="216">
+<img class="project_image" src="/assets/images/space-age.png" width="560" height="315">
 <a href="https://github.com/kylebrain/hackathon-2019">GitHub Repository</a>
 <br><br>
 <hr>
 
 <h2>Leviathan</h2>
 Virtual reality simulation for the Vive SteamVR System that teaches naval officers to determine ship type and angle using ship lighting. Tests their knowledge using a quiz mode implementing a variety of scenarios. Written in Unity using C#.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u38aZBRUzsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzTdZjPLN1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<br><br>
 <hr>
 
 <h2>Evolutionary Solver</h2>
