@@ -4,7 +4,7 @@ title: Eryl Kenner
 ---
 # Projects
 
-Here are a few of my developed projects. Other side projects can be found on my <a href="https://github.com/Eryl2000">GitHub</a>.
+Here are a few of my more developed projects. Other side projects can be found on my <a href="https://github.com/Eryl2000">GitHub</a>.
 <br><br>
 <hr>
 
