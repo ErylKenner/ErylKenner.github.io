@@ -4,7 +4,7 @@ title: Eryl Kenner
 ---
 
 <p>
-<img src="/assets/images/Eryl_Kenner.jpg" width="312" height="404" id="pic_eryl_kenner">
+<img src="/assets/images/Eryl_Kenner.jpg" width="400" height="400" id="pic_eryl_kenner">
 
 <h1>Eryl Kenner</h1>
 <p>
